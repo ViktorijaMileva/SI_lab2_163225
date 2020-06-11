@@ -2,3 +2,6 @@
 Викторија Милева, број на индекс 163225
 Група на код: 4
 Control Flow Graph:
+![alt text](C:\Users\Viktorija\Desktop)
+Цикломатска комплексност:
+
