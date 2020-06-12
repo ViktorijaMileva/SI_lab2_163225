@@ -1,14 +1,26 @@
 Втора лабораториска вежба по Софтверско инженерство
+
 Викторија Милева, број на индекс 163225
+
 Група на код: 4
+
 Control Flow Graph:
-![Control Flow Graph](C:\Users\Viktorija\Desktop)
+
+![Control Flow Graph](https://github.com/ViktorijaMileva/SI_lab2_163225/blob/master/CFG.png)
+
 Цикломатска комплексност:
+
 v-комплексност
+
 е-број на ребра
+
 n-број на јазли
+
 p-број на јазли кои имаат излезни точки
+
 v=e-n+2*p
+
 v=20-20+2*4
+
 v=8
 
